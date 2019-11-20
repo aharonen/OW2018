@@ -1,6 +1,6 @@
 # How to Install MySQl 
 
-## RPM / YUN 
+## RPM / YUM 
 
 * MySQL Repos
 https://dev.mysql.com/doc/mysql-yum-repo-quick-guide/en/ 
